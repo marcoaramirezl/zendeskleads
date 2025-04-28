@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "IENTC Preleads Zendesk",
+    "short_description": "Responder desde zendesk hacia Netsuite los leads trabajados.",
+    "long_description": "Recibir los datos de Zendesk en Netsuite para la creación de los registros de lead.",
+    "installation_instructions": "Para utilizarlo es necesario que el ticket tenga el titulo Prospecto Ventas",
+    "parameters": {
+      "urlNSapi": {
+        "label": "URL NS"
+      }
+    }
+  }
+}

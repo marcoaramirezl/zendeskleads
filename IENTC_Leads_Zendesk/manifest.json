@@ -1,0 +1,26 @@
+{
+  "name": "Preleads Zendesk",
+  "author": {
+    "name": "IENTC Telecom",
+    "email": "dev@ientc.com",
+    "url": "https://ientc.com"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "parameters": [
+    {
+      "name": "urlNSapi",
+      "type": "text"
+    }
+  ],
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
